@@ -12,7 +12,7 @@
 }
 
 .my-card img {
-  transition: all 0.15s linear;
+  transition: all 1s linear;
   position: relative;
   top: -15%;
   left: -25%;
